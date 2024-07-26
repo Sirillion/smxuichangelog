@@ -1,0 +1,2 @@
+# smxuichangelog
+Changelogs for SMXui
