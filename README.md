@@ -1,26 +1,42 @@
 <p align="center">
   <img src="https://i.imgur.com/nPmrT2A.jpg" width="1080" title="SMXui">
 </p>
-## **v1.2.27.2**
+
+## **v2.2.3.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
 ### CHANGES:
-- SMXui update is ongoing.
 
 ### FIXES:
 
 ### UPDATES:
 
 ### WORK IN PROGRESS:
-- Currently modding: The Map window.
-  - Next up: The Challenge window.
-    - Next up: The Quest window.
-      - Next up: The Players window.
+- Currently modding: The Challenge window.
+  - Next up: The Quest window.
+    - Next up: The Players window.
+      - Next up: The Creative window.
 
 
 ---
 
+
+## **v2.2.3.0**
+
+`Branch: Stable Release - Released: 27.08.2025`
+
+### CHANGES:
+- The map windows have been modded to fit the SMXui theme.
+- Some options have been moved to the world section of Gears, they can now be found in the MODS tab on the New/Continue game window.
+- The BIGBAG options have now been redesignes as a selector rather than switches in Gears.
+  
+### FIXES:
+- Fixed a ton of changes that preventet SMXui to work on v2.0+.
+  
+### UPDATES:
+
+---
 
 ## **v1.2.27.1**
 
