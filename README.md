@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/nPmrT2A.jpg" width="1080" title="SMXui">
+  <img src="https://imgur.com/pc8vJ12.jpg" width="1080" title="SMXui">
 </p>
 
 ## **v2.5.23.1**
