@@ -37,8 +37,6 @@
 - A 8 wide slot system has been coded but not implemented through options.
   - Coming: Smaller slots, fixed inventory.
   - Disabled in code, can be enabled if you're feeling lucky.
-- The minimap has gotten a facelift.
-- The quest and recipe trackers have been completely redone and separated to avoid overlap.
 - Bigger Containers mod has been added as a Gears option. Up to 240 slots.
   - Vanilla Size, Double Size, Triple Size.
   
@@ -48,6 +46,7 @@
   
 ### UPDATES:
 - The Collector window has been updated for the Apiary.
+- The Character Frame Window has been updated for changes introduced with 2.5.
 
 ---
 
