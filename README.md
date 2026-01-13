@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/nPmrT2A.jpg" width="1080" title="SMXui">
 </p>
 
-## **v2.2.3.1**
+## **v2.5.23.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -18,6 +18,36 @@
     - Next up: The Players window.
       - Next up: The Creative window.
 
+
+---
+
+
+## **v2.5.23.0**
+
+`Branch: Stable Release - Released: 13.01.2025`
+
+### CHANGES:
+- The Trader windows have been modded to fit the SMX theme.
+  - The Quest Offer Window has been modded to fit the SMX theme.
+  - The Trader Inventory Window has been modded to fit the SMX theme.
+  - The Quest Delivery Window has been modded to fit the SMX theme.
+  - The Quest Reward Window has been modded to fit the SMX theme.
+- The Message window has been modded to fit the SMX theme.
+- The Tip window has been modded to fit the SMX theme.
+- A 8 wide slot system has been coded but not implemented through options.
+  - Coming: Smaller slots, fixed inventory.
+  - Disabled in code, can be enabled if you're feeling lucky.
+- The minimap has gotten a facelift.
+- The quest and recipe trackers have been completely redone and separated to avoid overlap.
+- Bigger Containers mod has been added as a Gears option. Up to 240 slots.
+  - Vanilla Size, Double Size, Triple Size.
+  
+### FIXES:
+- Minor changes has been done to the progression file due to 2.5 changes.
+- The issues with the drone crashing dedicated servers has been fixed.
+  
+### UPDATES:
+- The Collector window has been updated for the Apiary.
 
 ---
 
