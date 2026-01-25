@@ -2,7 +2,7 @@
   <img src="https://imgur.com/pc8vJ12.jpg" width="1080" title="SMXui">
 </p>
 
-## **v2.5.23.1**
+## **v2.5.27.0**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -13,10 +13,32 @@
 ### UPDATES:
 
 ### WORK IN PROGRESS:
-- Currently modding: The Challenge window.
-  - Next up: The Quest window.
-    - Next up: The Players window.
-      - Next up: The Creative window.
+- Currently modding: The Quest window.
+  - Next up: The Players window.
+    - Next up: The Creative window.
+
+
+---
+
+
+## **v2.5.27.0**
+
+`Branch: Stable Release - Released: 25.01.2025`
+
+### CHANGES:
+- The Challenges Windows have been modified to fit the SMX theme.
+- The Sign Windows have been modified to fit the SMX theme.
+- The vehicle info window has been modified to fit the SMX theme.
+- The assemble window has been modified to fit the SMX theme. Should now support up to 8 mod slots.
+- The Power Stats and Slot windows have been modified to fit the SMX theme.
+  
+### FIXES:
+- The skills info windows has been tweaked to fit more in line with the challenges and upcoming quest info windows.
+- The loot window has gotten a SMXhint for the bag overflow issue to prevent more support claims.
+- The Quest Delivery window has gotten a bit more information in it's rewards section.
+- The ItemInfo window has gotten a facelift for the stats section.
+
+### UPDATES:
 
 
 ---
