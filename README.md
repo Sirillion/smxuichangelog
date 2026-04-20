@@ -2,7 +2,7 @@
   <img src="https://imgur.com/pc8vJ12.jpg" width="1080" title="SMXui">
 </p>
 
-## **v2.5.27.0**
+## **v2.6.14.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -16,6 +16,22 @@
 - Currently modding: The Quest window.
   - Next up: The Players window.
     - Next up: The Creative window.
+
+
+---
+
+
+## **v2.6.14.0**
+
+`Branch: Current Development - Released: 20.04.2026`
+
+### CHANGES:
+
+### FIXES:
+- Fixed the issues with the collector windows for the Apiary and Dew collector.
+- Reduced the size of the Dew Collector back to "normal" to prevent having to redesign the entire window. Subject to change in future releases.
+  
+### UPDATES:
 
 
 ---
